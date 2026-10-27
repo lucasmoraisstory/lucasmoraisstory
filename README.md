@@ -9,7 +9,7 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 - 🎯 Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
 
 ### 🛠️ Competências e Tecnologias
-- **Linguagens:** C, HTML5, CSS3
+- **Linguagens:** Python, C, HTML5, CSS3
 - **Banco de Dados:** Modelagem de Dados e Banco de Dados Relacional
 - **Ferramentas:** VS Code, Git e GitHub, Ferramentas de IA (Prompt Engineering)
 
