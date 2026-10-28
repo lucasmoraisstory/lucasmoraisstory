@@ -17,7 +17,7 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 -  Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
 
 ### 👇 Conecte-se comigo
--  [Acesse meu perfil profissional no LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/lucas-morais-75230b435/)
+-  [Acesse meu perfil profissional no LinkedIn]()
 
 ### Competências e Tecnologias
 - **Linguagens:** C, HTML5, CSS3
