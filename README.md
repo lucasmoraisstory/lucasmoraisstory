@@ -1,6 +1,13 @@
 <div align="center">
 
-# Olá, eu sou o Lucas Morais! 👋
+<div align="left">
+
+# Olá, eu sou o Lucas Morais! <img src="https://githubusercontent.com" width="30px">
+
+![Linha Animada](https://vercel.app)
+
+</div>
+
 ### 💻 Estudante de ADS | UNICID • Desenvolvedor em Formação
 
 ---
