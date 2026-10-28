@@ -1,7 +1,7 @@
 # Olá, eu sou o Lucas Morais! 👋
 
-```text
-🚀 Estudante de ADS | UNICID • Desenvolvedor em Formação
+> ### 🚀 Estudante de ADS | UNICID • Desenvolvedor em Formação
+
 ```
 
 
