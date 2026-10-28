@@ -40,6 +40,18 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 
 ---
 
+<h2 align="center">📊 Linguagens mais utilizadas</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5"
+    height="200"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+---
+
 <p align="center">
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
