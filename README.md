@@ -30,7 +30,7 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 - **Banco de Dados:** Modelagem de Dados e Banco de Dados Relacional
 - **Ferramentas:** VS Code, Git e GitHub, Ferramentas de IA (Prompt Engineering)
 
-
+---
 
 <p align="center">
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
