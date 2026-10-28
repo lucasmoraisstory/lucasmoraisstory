@@ -20,11 +20,9 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 ### 🤝 Conecte-se comigo
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
 
-<a href="https://www.linkedin.com/in/lucas-morais-75230b435/" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
-<a href="mailto:lucasmoraisstory@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"></a>
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
 
 
 ### Competências e Tecnologias
