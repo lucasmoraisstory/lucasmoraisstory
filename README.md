@@ -1,31 +1,25 @@
-# Olá, eu sou o Lucas Morais! 👋
+# Olá, eu sou o Lucas Morais! <img src="https://giphy.com" width="35px">
 
-> ### ⚡ Estudante de ADS | UNICID • Desenvolvedor em Formação
-> _"Focado em transformar aprendizado em projetos reais e consistentes."_
+<p align="left">
+  <img src="https://githubusercontent.com" width="100%">
+</p>
 
----
-
-### 💻 Estudante de ADS | UNICID • Desenvolvedor em Formação
-
----
-</div>
-
-
+### 🚀 Estudante de ADS | UNICID • Desenvolvedor em Formação
 
 Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções eficientes e organizadas. Atualmente, estou focado em expandir minhas habilidades técnicas e construir uma base sólida no desenvolvimento de softwares.
 
 ---
 
-### 👉 Sobre Mim
--  Estudante de **Análise e Desenvolvimento de Sistemas** na UNICID.
--  Desenvolvendo projetos práticos com foco em lógica de programação, estruturas de dados e desenvolvimento web.
--  Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
+### 🔎 Sobre Mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UNICID.
+- 💻 Desenvolvendo projetos práticos com foco em lógica de programação, estruturas de dados e desenvolvimento web.
+- 🎯 Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
 
-### 👇 Conecte-se comigo
--  [Acesse meu perfil profissional no LinkedIn](https://www.linkedin.com/in/lucas-morais-75230b435/)
+### 🤝 Conecte-se comigo
+- 💼 [Acesse meu perfil profissional no LinkedIn](https://linkedin.com)
 
-### Competências e Tecnologias
-- **Linguagens:** Python, C, HTML5, CSS3
+### 🛠️ Competências e Tecnologias
+- **Linguagens:** C, HTML5, CSS3
 - **Banco de Dados:** Modelagem de Dados e Banco de Dados Relacional
 - **Ferramentas:** VS Code, Git e GitHub, Ferramentas de IA (Prompt Engineering)
 
