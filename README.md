@@ -1,12 +1,9 @@
-<div align="center">
+# Olá, eu sou o Lucas Morais! 👋
 
-<div align="left">
+> ### ⚡ Estudante de ADS | UNICID • Desenvolvedor em Formação
+> _"Focado em transformar aprendizado em projetos reais e consistentes."_
 
-# Olá, eu sou o Lucas Morais! <img src="https://githubusercontent.com" width="30px">
-
-![Linha Animada](https://vercel.app)
-
-</div>
+---
 
 ### 💻 Estudante de ADS | UNICID • Desenvolvedor em Formação
 
