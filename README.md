@@ -6,15 +6,15 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 
 ---
 
-### 🔎 Sobre Mim
+### 👉 Sobre Mim
 -  Estudante de **Análise e Desenvolvimento de Sistemas** na UNICID.
 -  Desenvolvendo projetos práticos com foco em lógica de programação, estruturas de dados e desenvolvimento web.
 -  Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
 
-### 🤝 Conecte-se comigo
-- 💼 [Acesse meu perfil profissional no LinkedIn](https://www.linkedin.com/in/lucas-morais-75230b435/)
+### 👇 Conecte-se comigo
+-  [Acesse meu perfil profissional no LinkedIn](https://www.linkedin.com/in/lucas-morais-75230b435/)
 
-### 🛠️ Competências e Tecnologias
+### Competências e Tecnologias
 - **Linguagens:** C, HTML5, CSS3
 - **Banco de Dados:** Modelagem de Dados e Banco de Dados Relacional
 - **Ferramentas:** VS Code, Git e GitHub, Ferramentas de IA (Prompt Engineering)
