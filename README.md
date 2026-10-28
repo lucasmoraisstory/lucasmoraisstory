@@ -1,22 +1,18 @@
 # Olá, eu sou o Lucas Morais! 👋
 
-<p align="left">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</p>
+### 🚀 Estudante de ADS | UNICID • Desenvolvedor em Formação
 
 Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções eficientes e organizadas. Atualmente, estou focado em expandir minhas habilidades técnicas e construir uma base sólida no desenvolvimento de softwares.
 
-### 🚀 Sobre Mim
+---
+
+### 🔎 Sobre Mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UNICID.
 - 💻 Desenvolvendo projetos práticos com foco em lógica de programação, estruturas de dados e desenvolvimento web.
 - 🎯 Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
 
 ### 🤝 Conecte-se comigo
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
+- 💼 [Acesse meu perfil profissional no LinkedIn](https://linkedin.com)
 
 ### 🛠️ Competências e Tecnologias
 - **Linguagens:** C, HTML5, CSS3
