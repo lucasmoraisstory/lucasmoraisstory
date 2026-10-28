@@ -17,14 +17,7 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 -  Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
 
 ### 👇 Conecte-se comigo
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lucasmoraisstory@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-</p>
+[Acesse meu perfil profissional no LinkedIn](https://linkedin.com)
 
 
 ### Competências e Tecnologias
@@ -32,9 +25,6 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 - **Banco de Dados:** Modelagem de Dados e Banco de Dados Relacional
 - **Ferramentas:** VS Code, Git e GitHub, Ferramentas de IA (Prompt Engineering)
 
-<p align="left">
-  <img src="https://vercel.app" alt="Gráfico de Linguagens" />
-</p>
 
 ---
 *“Focado em dar o meu melhor todos os dias, mantendo a consistência para transformar objetivos em resultados.”*
