@@ -7,9 +7,9 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 ---
 
 ### 🔎 Sobre Mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UNICID.
-- 💻 Desenvolvendo projetos práticos com foco em lógica de programação, estruturas de dados e desenvolvimento web.
-- 🎯 Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
+-  Estudante de **Análise e Desenvolvimento de Sistemas** na UNICID.
+-  Desenvolvendo projetos práticos com foco em lógica de programação, estruturas de dados e desenvolvimento web.
+-  Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
 
 ### 🤝 Conecte-se comigo
 - 💼 [Acesse meu perfil profissional no LinkedIn](https://linkedin.com)
