@@ -16,9 +16,16 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 -  Desenvolvendo projetos práticos com foco em lógica de programação, estruturas de dados e desenvolvimento web.
 -  Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
 
-### 👇 Conecte-se comigo
 
-[Acesse meu perfil profissional no LinkedIn](https://www.linkedin.com/in/lucas-morais-75230b435/)
+### 🤝 Conecte-se comigo
+
+
+
+<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+<a href="mailto:lucasmoraisstory@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"></a>
+
+
+
 
 ### Competências e Tecnologias
 - **Linguagens:** Python, C, HTML5, CSS3
