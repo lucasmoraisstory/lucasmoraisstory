@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Olá! 👋 Seja bem-vindo ao meu GitHub!
+  Olá! Seja bem-vindo ao meu GitHub!
 </h1>
 
 <p align="center">
