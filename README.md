@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Sou+Lucas+Morais;Estudante+de+ADS;Futuro+Desenvolvedor+de+Software!" />
 </p>
 
+<p align="center">
 ### 💻 Estudante de ADS | UNICID • Desenvolvedor em Formação
 
 ---
