@@ -21,7 +21,7 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 -  [Acesse meu perfil profissional no LinkedIn](https://www.linkedin.com/in/lucas-morais-75230b435/)
 
 ### Competências e Tecnologias
-- **Linguagens:** C, HTML5, CSS3
+- **Linguagens:** Python, C, HTML5, CSS3
 - **Banco de Dados:** Modelagem de Dados e Banco de Dados Relacional
 - **Ferramentas:** VS Code, Git e GitHub, Ferramentas de IA (Prompt Engineering)
 
