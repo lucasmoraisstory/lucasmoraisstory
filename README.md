@@ -1,24 +1,25 @@
-# Olá, eu sou o Lucas Morais! <img src="https://giphy.com" width="35px">
+<div align="center">
 
-<p align="left">
-  <img src="https://githubusercontent.com" width="100%">
-</p>
+# Olá, eu sou o Lucas Morais! 👋
+### 💻 Estudante de ADS | UNICID • Desenvolvedor em Formação
 
-### 🚀 Estudante de ADS | UNICID • Desenvolvedor em Formação
+---
+</div>
+
 
 Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções eficientes e organizadas. Atualmente, estou focado em expandir minhas habilidades técnicas e construir uma base sólida no desenvolvimento de softwares.
 
 ---
 
-### 🔎 Sobre Mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UNICID.
-- 💻 Desenvolvendo projetos práticos com foco em lógica de programação, estruturas de dados e desenvolvimento web.
-- 🎯 Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
+### 👉 Sobre Mim
+-  Estudante de **Análise e Desenvolvimento de Sistemas** na UNICID.
+-  Desenvolvendo projetos práticos com foco em lógica de programação, estruturas de dados e desenvolvimento web.
+-  Buscando minha primeira oportunidade de **Estágio** na área de tecnologia.
 
-### 🤝 Conecte-se comigo
-- 💼 [Acesse meu perfil profissional no LinkedIn](https://linkedin.com)
+### 👇 Conecte-se comigo
+-  [Acesse meu perfil profissional no LinkedIn](https://linkedin.com)
 
-### 🛠️ Competências e Tecnologias
+### Competências e Tecnologias
 - **Linguagens:** C, HTML5, CSS3
 - **Banco de Dados:** Modelagem de Dados e Banco de Dados Relacional
 - **Ferramentas:** VS Code, Git e GitHub, Ferramentas de IA (Prompt Engineering)
