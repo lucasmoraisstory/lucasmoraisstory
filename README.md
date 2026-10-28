@@ -21,7 +21,7 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 
 
 
-<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/lucas-morais-75230b435/" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
 <a href="mailto:lucasmoraisstory@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"></a>
 
 
