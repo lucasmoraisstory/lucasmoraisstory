@@ -2,7 +2,6 @@
 
 > ### 🚀 Estudante de ADS | UNICID • Desenvolvedor em Formação
 
-```
 
 
 Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções eficientes e organizadas. Atualmente, estou focado em expandir minhas habilidades técnicas e construir uma base sólida no desenvolvimento de softwares.
