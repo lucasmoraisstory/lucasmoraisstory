@@ -18,15 +18,7 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 
 ### 👇 Conecte-se comigo
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lucasmoraisstory@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-</p>
-
+[Acesse meu perfil profissional no LinkedIn](https://www.linkedin.com/in/lucas-morais-75230b435/)
 
 ### Competências e Tecnologias
 - **Linguagens:** Python, C, HTML5, CSS3
