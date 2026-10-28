@@ -50,6 +50,13 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
   />
 </p>
 
+<h2 align="center">📊 Linguagens mais utilizadas</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoraisstory&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&title_color=00BFFF" height="180"/>
+</p>
+
+
 ---
 
 <p align="center">
