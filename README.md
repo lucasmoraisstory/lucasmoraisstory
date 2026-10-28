@@ -25,23 +25,6 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 - **Banco de Dados:** Modelagem de Dados e Banco de Dados Relacional
 - **Ferramentas:** VS Code, Git e GitHub, Ferramentas de IA (Prompt Engineering)
 
-### 📊 Estatísticas de Linguagens
-
-**Python**
-<p align="left">
-  <kbd>████████████████████░░░░░░░░░░</kbd> 65%
-</p>
-
-**Linguagem C**
-<p align="left">
-  <kbd>██████████████░░░░░░░░░░░░░░░░</kbd> 45%
-</p>
-
-**HTML5 / CSS3**
-<p align="left">
-  <kbd>████████░░░░░░░░░░░░░░░░░░░░░░</kbd> 25%
-</p>
-
 
 ---
 *“Focado em dar o meu melhor todos os dias, mantendo a consistência para transformar objetivos em resultados.”*
