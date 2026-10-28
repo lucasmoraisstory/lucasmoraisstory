@@ -44,7 +44,7 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoraisstory&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5"
     height="200"
     alt="Linguagens mais utilizadas"
   />
