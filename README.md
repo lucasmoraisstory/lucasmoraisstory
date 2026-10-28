@@ -40,7 +40,6 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
 
 ---
 
-<h2 align="center">📊 Linguagens mais utilizadas</h2>
 
 <p align="center">
   <img
@@ -50,7 +49,6 @@ Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções 
   />
 </p>
 
-<h2 align="center">📈 Minhas estatísticas</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasmoraisstory&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF"/>
